@@ -108,11 +108,35 @@
 </div>
 
 ---
+## 🐱🐶 Cute Coding Companions
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+     width="180"
+     alt="Animated coding cat" />
+
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif"
+     width="180"
+     alt="Animated dog" />
+
+### 💻 Coding with my furry friends!
+
+</div>
 
 <div align="center">
 
 ### 💙 Learn. Build. Secure.
 
 **"Code today for a better tomorrow."** 🚀
+
+</div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing.gif"
+     width="300"
+     alt="Animated typing effect" />
+
+**🐾 Keep Coding • Keep Learning • Stay Curious 🐾**
 
 </div>
