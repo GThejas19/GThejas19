@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Thejas
+# 👋 Hi, I'm G Thejas
 
 ### 🌐 Networking & Cybersecurity | Web Developer | Full-Stack Developer
 
