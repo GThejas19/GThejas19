@@ -87,6 +87,15 @@
 </div>
 
 ---
+## 📅 GitHub Contributions
+
+<div align="center">
+  <img
+    src="https://ghchart.rshah.org/00D9FF/GThejas19"
+    alt="GitHub contribution calendar"
+    width="100%"
+  />
+</div>
 
 ## 🤝 Connect With Me
 
