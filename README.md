@@ -1,107 +1,247 @@
+<!-- =========================================================
+     G THEJAS | GITHUB PROFILE README
+     GitHub username: GThejas19
+     ========================================================= -->
+
 <div align="center">
-  <h1>👋 Hi, I'm G THEJAS</h1>
-  <p><strong>&lt; WEB DEVELOPER , FULL STACK DEVELOPER , CYBER SECURITY /&gt;</strong></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Profile_views-8.7K+-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Location-Chikamagalur,_Karnataka-blueviolet?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Email-thejassdm1234@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    <img src="https://img.shields.io/badge/Education-BCA_|_Adhichunchanagiri_University-informational?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education" />
-  </p>
+
+<!-- HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B20,40:302080,75:00D9FF,100:9D4EDD&height=180&section=header&text=G%20THEJAS&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=NETWORKING%20%7C%20CYBERSECURITY%20%7C%20WEB%20DEVELOPMENT&descAlignY=60&descSize=15" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/GThejas19">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+G+Thejas+%F0%9F%91%8B;Networking+%26+Cybersecurity+Learner;Future+Cybersecurity+Professional;Building+Skills+One+Day+at+a+Time;Build.+Learn.+Grow." alt="Typing animation" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=GThejas19&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/GThejas19?label=FOLLOWERS&style=for-the-badge&color=8A2BE2" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-GThejas19-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GThejas19)
+[![Networking](https://img.shields.io/badge/Networking-Learning-00D9FF?style=for-the-badge&logo=cisco&logoColor=black)](https://github.com/GThejas19)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-8A2BE2?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/GThejas19)
+
 </div>
 
 ---
 
-### 👤 About Me
+## 💫 About Me
 
-I am a Computer Science (BCA) student at Adhichunchanagiri University with a deep passion for building responsive, user-friendly web applications[span_1](start_span)[span_1](end_span). My journey is fueled by a blend of design and code, and I am currently focused on growing into a Full-Stack Developer[span_2](start_span)[span_2](end_span).
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### 🚀 What I'm Up To
+### 👋 Hello, I'm Thejas!
 
-- **🔭 Currently learning:** Advanced Full-Stack Development, Machine Learning & IoT[span_3](start_span)[span_3](end_span)
-- **🌱 Looking to collaborate on:** Dynamic web applications, React projects, responsive front-end design[span_4](start_span)[span_4](end_span)
-- **💬 Looking for help with:** Payment gateway integrations and scaling real-time applications[span_5](start_span)[span_5](end_span)
+- 🎓 BCA graduate
+- 🌐 Interested in **Computer Networking**
+- 🔐 Learning **Cybersecurity**
+- 💻 Exploring Linux, Python and networking tools
+- 🚀 Improving my technical skills through practical projects
+- 🤝 Open to collaboration, internships and learning opportunities
 
----
+### 🎯 What I'm working on
 
-### ⚡ Skills
+- 📡 Understanding networking fundamentals
+- 🛡️ Learning cybersecurity and ethical hacking concepts
+- 🐧 Practising Linux commands and system administration
+- 🧪 Building hands-on labs and beginner projects
+- 📚 Learning something new every day
 
-#### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-</p>
+</td>
+<td width="40%" align="center" valign="middle">
 
-#### Frontend & Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-</p>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="Animated coding illustration" />
 
-#### Database & DevOps / Cloud
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" />
-</p>
+<br/>
 
-#### Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-</p>
+**BUILD • LEARN • GROW**
+
+<img src="https://img.shields.io/badge/Status-Always_Learning-00D9FF?style=flat-square" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📂 Featured Projects
+## 🛠️ Skills & Technologies
 
-- 💬 **Real-time Chat Application**[span_6](start_span)[span_6](end_span)  
-  Instant messaging platform with group chat and multimedia sharing capabilities. *(🏆 Top 5% in Machine Learning Hackathon)*[span_7](start_span)[span_7](end_span)
-- 🛒 **E-commerce Platform**[span_8](start_span)[span_8](end_span)  
-  Full-scale retail platform with payment gateway integration and order management[span_9](start_span)[span_9](end_span).
-- 🌱 **Sustainable Shopping Assistant**[span_10](start_span)[span_10](end_span)  
-  *(Awarded Second Prize in a renowned tech hackathon)*[span_11](start_span)[span_11](end_span)
+### 🌐 Networking
+
+<p>
+<img src="https://img.shields.io/badge/TCP%2FIP-Concepts-0A84FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DNS-Learning-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTTP%20%2F%20HTTPS-Protocols-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OSI%20Model-Study-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IP%20Addressing-Learning-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Routing%20%26%20Switching-Learning-0891B2?style=for-the-badge" />
+</p>
+
+### 🔐 Cybersecurity
+
+<p>
+<img src="https://img.shields.io/badge/Linux-Practice-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali%20Linux-Learning-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-Scanning-4682B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ethical%20Hacking-Foundations-8A2BE2?style=for-the-badge" />
+</p>
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&theme=dark" />
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash&theme=dark" />
+</p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### 📡 Networking Lab
+
+**Goal:** Build practical networking knowledge.
+
+- IP addressing and subnetting
+- DNS and DHCP experiments
+- TCP/IP and OSI model notes
+- Packet analysis with Wireshark
+
+[![Networking](https://img.shields.io/badge/Explore-Projects-00D9FF?style=for-the-badge&logo=github)](https://github.com/GThejas19?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity Lab
+
+**Goal:** Learn security through authorised practice.
+
+- Linux command-line exercises
+- Basic network reconnaissance
+- Security fundamentals
+- Beginner CTF write-ups
+
+[![Cybersecurity](https://img.shields.io/badge/Explore-Projects-8A2BE2?style=for-the-badge&logo=kalilinux)](https://github.com/GThejas19?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Python Projects
+
+**Goal:** Improve programming and automation.
+
+- Beginner Python scripts
+- File handling and utilities
+- Networking-related automation
+- Small problem-solving projects
+
+[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/GThejas19?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 BCA Projects
+
+**Goal:** Apply computer science concepts.
+
+- Web development
+- Database applications
+- Machine learning experiments
+- Academic software projects
+
+[![BCA](https://img.shields.io/badge/Academic-Projects-7C3AED?style=for-the-badge&logo=github)](https://github.com/GThejas19?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+> These are project categories and ideas. Replace them with your actual repositories when the projects are published.
 
 ---
 
-### 📱 Connect with Me
+## 📊 GitHub Stats & Activity
 
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:thejassdm1234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<div align="center">
 
-> *"Code today for a better tomorrow"*[span_12](start_span)[span_12](end_span)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GThejas19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B20&title_color=00D9FF&icon_color=BD5FFF&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GThejas19&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B20&title_color=00D9FF&text_color=FFFFFF" alt="Most used languages" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=GThejas19&theme=tokyonight&hide_border=true&background=080B20&ring=BD5FFF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GThejas19&bg_color=080B20&color=00D9FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=GThejas19&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🐱 Coding Companions
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="Animated coding cat" />
+
+<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="160" alt="Animated dog" />
+
+<br/>
+
+**Even cats and dogs are part of the coding journey!**
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/GThejas19">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Replace the placeholder links with your actual profile URLs. -->
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💬 My Motto
+
+> Code today for a better tomorrow.
+
+**Thanks for visiting my profile!**
+
+*Let's build something amazing together.* 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B20,40:302080,75:00D9FF,100:9D4EDD&height=120&section=footer" />
+
+</div>
