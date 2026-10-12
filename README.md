@@ -240,6 +240,19 @@
 
 ---
 
+## 🐱 Coding Companions
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="Coding cat animation" />
+
+<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="160" alt="Dog animation" />
+
+<br/>
+
+**Even cats and dogs are part of the coding journey!**
+
+</div>
 
 ---
 
