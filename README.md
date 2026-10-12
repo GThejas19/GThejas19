@@ -144,7 +144,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GThejas19&theme=tokyo-night&hide_border=true&area=true&custom_title=G%20Thejas%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GThejas19&theme=github-compact&hide_border=true" width="100%" alt="GitHub contribution graph"/>
 
 </div>
 ---
