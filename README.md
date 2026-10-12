@@ -144,6 +144,13 @@ Build a career in networking and cybersecurity.
 </div>
 
 ---
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GThejas19&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
+
+</div>
 
 ## 🧰 Languages & Tools
 
