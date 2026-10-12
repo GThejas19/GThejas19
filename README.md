@@ -197,7 +197,13 @@
 </div>
 
 ---
+### 📊 GitHub Contribution Activity
 
+[![GitHub Contributions](https://ghchart.rshah.org/00e5ff/GThejas19)](https://github.com/GThejas19)
+
+### 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GThejas19\&theme=tokyonight\&no-frame=true\&row=1\&column=6)](https://github.com/GThejas19)
 
 
 
