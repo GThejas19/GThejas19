@@ -155,17 +155,6 @@ Build a career in networking and cybersecurity.
 
 ---
 
-## 🐱🐶 Coding Companions
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Coding cat"/>
-
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180" alt="Animated dog"/>
-
-### 🐾 Keep Coding • Keep Learning • Keep Growing 🐾
-
-</div>
 
 ---
 
