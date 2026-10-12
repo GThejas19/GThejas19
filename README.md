@@ -1,234 +1,107 @@
-
-<!-- ===================================================== -->
-<!--                 PROFILE BANNER                        -->
-<!-- ===================================================== -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:5B2C83,100:A371F7&text=G%20THEJAS&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPMENT%20%7C%20IT%20%7C%20TECHNOLOGY&descSize=14&descAlignY=60" width="100%" alt="G Thejas profile banner"/>
-
-<br/>
-
-<a href="https://github.com/GThejas19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Aspiring+IT+Professional;Exploring+Web+Development+%26+Python;Learning+%7C+Building+%7C+Growing" alt="Typing SVG"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/GThejas19">
-  <img src="https://img.shields.io/badge/GitHub-GThejas19-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/g-thejas-46353a339/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/thejas__gowda__19/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
+  <h1>👋 Hi, I'm G THEJAS</h1>
+  <p><strong>&lt; WEB DEVELOPER , FULL STACK DEVELOPER , CYBER SECURITY /&gt;</strong></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Profile_views-8.7K+-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Location-Chikamagalur,_Karnataka-blueviolet?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Email-thejassdm1234@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Education-BCA_|_Adhichunchanagiri_University-informational?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education" />
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👤 About Me
 
-Hi, I'm **G Thejas**, a BCA graduate passionate about software development, information technology, and solving real-world problems through technology.
+I am a Computer Science (BCA) student at Adhichunchanagiri University with a deep passion for building responsive, user-friendly web applications[span_1](start_span)[span_1](end_span). My journey is fueled by a blend of design and code, and I am currently focused on growing into a Full-Stack Developer[span_2](start_span)[span_2](end_span).
 
-- 🎓 Background in Computer Applications.
-- 💻 Interested in full-stack web development.
-- 🐍 Developing my Python and programming skills.
-- 🌐 Learning computer networking and IT fundamentals.
-- 🔐 Exploring cybersecurity and Linux fundamentals.
-- 🤖 Interested in artificial intelligence and machine learning.
-- 🚀 Building practical projects to strengthen my technical skills.
-- 🤝 Open to internships, collaborations, and entry-level opportunities.
+### 🚀 What I'm Up To
 
-### 🎯 My Goal
-
-To become a skilled IT professional by continuously learning, developing practical solutions, and gaining hands-on experience in software development and information technology.
-
-> **Build. Learn. Grow. — One Step at a Time!**
+- **🔭 Currently learning:** Advanced Full-Stack Development, Machine Learning & IoT[span_3](start_span)[span_3](end_span)
+- **🌱 Looking to collaborate on:** Dynamic web applications, React projects, responsive front-end design[span_4](start_span)[span_4](end_span)
+- **💬 Looking for help with:** Payment gateway integrations and scaling real-time applications[span_5](start_span)[span_5](end_span)
 
 ---
 
-## 🛠️ Technical Skills
+### ⚡ Skills
 
-### 💻 Programming Languages
-
+#### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" alt="Programming languages"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
 </p>
 
-### 🌐 Web Development
-
+#### Frontend & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark" alt="Web development technologies"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
 </p>
 
-### 🗄️ Databases
-
+#### Database & DevOps / Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" alt="Database technologies"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" />
 </p>
 
-### 🤖 Data Science & Machine Learning
-
+#### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow&theme=dark" alt="Machine learning technologies"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
 </p>
 
-### ⚙️ Tools & Platforms
+---
+
+### 📂 Featured Projects
+
+- 💬 **Real-time Chat Application**[span_6](start_span)[span_6](end_span)  
+  Instant messaging platform with group chat and multimedia sharing capabilities. *(🏆 Top 5% in Machine Learning Hackathon)*[span_7](start_span)[span_7](end_span)
+- 🛒 **E-commerce Platform**[span_8](start_span)[span_8](end_span)  
+  Full-scale retail platform with payment gateway integration and order management[span_9](start_span)[span_9](end_span).
+- 🌱 **Sustainable Shopping Assistant**[span_10](start_span)[span_10](end_span)  
+  *(Awarded Second Prize in a renowned tech hackathon)*[span_11](start_span)[span_11](end_span)
+
+---
+
+### 📊 GitHub Stats & Activity
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&theme=dark" alt="Development tools"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 🌱 Currently Exploring
-
-- Full-stack web application development
-- Python programming and automation
-- Computer networking and troubleshooting
-- Linux and cybersecurity fundamentals
-- Machine learning applications
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 📱 Connect with Me
 
-Here are some project areas I work on and explore.
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:thejassdm1234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">❤️ Cardiac Arrhythmia Detection</h3>
-      <div align="center">
-        <p>
-          An ML-based project exploring ECG data analysis and the classification of normal and abnormal heart rhythms.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-        </p>
-        <a href="https://github.com/GThejas19?tab=repositories">
-          <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 EduTech Impact Analyzer</h3>
-      <div align="center">
-        <p>
-          A proposed smart learning platform exploring technology's impact on education and social benefit through data analysis.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
-          <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite"/>
-        </p>
-        <a href="https://github.com/GThejas19?tab=repositories">
-          <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📷 Smart Attendance System</h3>
-      <div align="center">
-        <p>
-          An attendance management project exploring automated attendance tracking using QR codes or face recognition.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite"/>
-          <img src="https://img.shields.io/badge/Automation-6A5ACD?style=flat-square"/>
-        </p>
-        <a href="https://github.com/GThejas19?tab=repositories">
-          <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 College Suggestion Box</h3>
-      <div align="center">
-        <p>
-          A college web application concept for collecting user suggestions through a web form and storing them in a database.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-          <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        </p>
-        <a href="https://github.com/GThejas19?tab=repositories">
-          <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-> **Note:** The project descriptions reflect project areas discussed during development. Replace the repository links above with each project's actual GitHub URL once the corresponding repository is published.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GThejas19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GThejas19&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=GThejas19&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GThejas19&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GThejas19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub profile trophies"/>
-
-</div>
-
----
-
-## 💬 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
-
-</div>
-
----
-
-## 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=GThejas19&label=Profile%20Views&color=8957e5&style=for-the-badge" alt="Profile visitor counter"/>
-
-<br/><br/>
-
-### ⭐ Thanks for visiting my profile!
-
-**Feel free to explore my repositories, share feedback, and connect with me.**
-
-*Let's keep learning, building, and growing together!* 🚀
-
-</div>
+> *"Code today for a better tomorrow"*[span_12](start_span)[span_12](end_span)
