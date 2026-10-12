@@ -140,14 +140,13 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Contribution Graph
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GThejas19&theme=tokyo-night&hide_border=true&area=true&custom_title=G%20Thejas%20-%20Contribution%20Activity" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GThejas19&theme=tokyo-night&hide_border=true&area=true&custom_title=G%20Thejas%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph" />
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
