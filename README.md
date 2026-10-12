@@ -6,11 +6,13 @@
 <div align="center">
 
 <!-- HERO BANNER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B20,40:302080,75:00D9FF,100:9D4EDD&height=180&section=header&text=G%20THEJAS&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=NETWORKING%20%7C%20CYBERSECURITY%20%7C%20WEB%20DEVELOPMENT&descAlignY=60&descSize=15" />
 
 <!-- TYPING ANIMATION -->
+
 <a href="https://github.com/GThejas19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+G+Thejas+%F0%9F%91%8B;Networking+%26+Cybersecurity+Learner;Future+Cybersecurity+Professional;Building+Skills+One+Day+at+a+Time;Build.+Learn.+Grow." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+G+Thejas+%F0%9F%91%8B;Networking+%26+Cybersecurity+Learner;Future+Cybersecurity+Professional;Building+Skills+One+Day+at+a+Time;Build.+Learn.+Grow." alt="Typing animation" />
 </a>
 
 <br/>
@@ -20,9 +22,9 @@
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-GThejas19-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GThejas19)
-[![Networking](https://img.shields.io/badge/Networking-Learning-00D9FF?style=for-the-badge&logo=cisco&logoColor=black)](https://github.com/GThejas19)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-8A2BE2?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/GThejas19)
+[![GitHub](https://img.shields.io/badge/GitHub-GThejas19-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/GThejas19)
+[![Networking](https://img.shields.io/badge/Networking-Learning-00D9FF?style=for-the-badge\&logo=cisco\&logoColor=black)](https://github.com/GThejas19)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-8A2BE2?style=for-the-badge\&logo=kalilinux\&logoColor=white)](https://github.com/GThejas19)
 
 </div>
 
@@ -36,20 +38,21 @@
 
 ### 👋 Hello, I'm Thejas!
 
-- 🎓 BCA graduate
-- 🌐 Interested in **Computer Networking**
-- 🔐 Learning **Cybersecurity**
-- 💻 Exploring Linux, Python and networking tools
-- 🚀 Improving my technical skills through practical projects
-- 🤝 Open to collaboration, internships and learning opportunities
+* 🎓 BCA graduate
+* 🌐 Interested in **Computer Networking**
+* 🔐 Learning **Cybersecurity**
+* 💻 Exploring Linux, Python and networking tools
+* 🚀 Improving my technical skills through practical projects
+* 🤝 Open to collaboration, internships and learning opportunities
 
 ### 🎯 What I'm working on
 
-- 📡 Understanding networking fundamentals
-- 🛡️ Learning cybersecurity and ethical hacking concepts
-- 🐧 Practising Linux commands and system administration
-- 🧪 Building hands-on labs and beginner projects
-- 📚 Learning something new every day
+* 📡 Understanding networking fundamentals
+* 🛡️ Learning cybersecurity and ethical hacking concepts
+* 🐧 Practising Linux commands and system administration
+* 🧪 Building hands-on labs and beginner projects
+* 🤖 Developing CyberSage AI, a phishing detection application
+* 📚 Learning something new every day
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -111,66 +114,130 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📡 Networking Lab
+### 🛡️ CyberSage AI — Phishing Detection
 
-**Goal:** Build practical networking knowledge.
+**Goal:** Identify potentially malicious URLs and phishing messages using machine learning and rule-based analysis.
 
-- IP addressing and subnetting
-- DNS and DHCP experiments
-- TCP/IP and OSI model notes
-- Packet analysis with Wireshark
+* 🤖 ML-based phishing classification
+* 🔍 Suspicious URL and message analysis
+* 🚦 High, Medium and Low risk assessment
+* 📊 Accuracy, precision, recall and F1-score evaluation
+* 👤 User authentication and account-specific scan history
+* 📁 Scan reports and CSV export
 
-[![Networking](https://img.shields.io/badge/Explore-Projects-00D9FF?style=for-the-badge&logo=github)](https://github.com/GThejas19?tab=repositories)
+**Tech stack:** Python, Flask, scikit-learn, Joblib, HTML, CSS and SQLite (if used in your implementation).
+
+[![CyberSage AI](https://img.shields.io/badge/View-CyberSage%20AI-8A2BE2?style=for-the-badge\&logo=github)](https://github.com/GThejas19?tab=repositories)
+
+*Replace the repository link above with your CyberSage AI repository once it is published.*
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Cybersecurity Lab
+### 📡 Networking Lab
 
-**Goal:** Learn security through authorised practice.
+**Goal:** Build practical networking knowledge.
 
-- Linux command-line exercises
-- Basic network reconnaissance
-- Security fundamentals
-- Beginner CTF write-ups
+* IP addressing and subnetting
+* DNS and DHCP experiments
+* TCP/IP and OSI model notes
+* Packet analysis with Wireshark
 
-[![Cybersecurity](https://img.shields.io/badge/Explore-Projects-8A2BE2?style=for-the-badge&logo=kalilinux)](https://github.com/GThejas19?tab=repositories)
+[![Networking](https://img.shields.io/badge/Explore-Projects-00D9FF?style=for-the-badge\&logo=github)](https://github.com/GThejas19?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐍 Python Projects
+### 🔐 Cybersecurity Lab
 
-**Goal:** Improve programming and automation.
+**Goal:** Learn security through authorised practice.
 
-- Beginner Python scripts
-- File handling and utilities
-- Networking-related automation
-- Small problem-solving projects
+* Linux command-line exercises
+* Basic network reconnaissance
+* Security fundamentals
+* Beginner CTF write-ups
 
-[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/GThejas19?tab=repositories)
+[![Cybersecurity](https://img.shields.io/badge/Explore-Projects-8A2BE2?style=for-the-badge\&logo=kalilinux)](https://github.com/GThejas19?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 BCA Projects
+### 🐍 Python Projects
 
-**Goal:** Apply computer science concepts.
+**Goal:** Improve programming and automation.
 
-- Web development
-- Database applications
-- Machine learning experiments
-- Academic software projects
+* Beginner Python scripts
+* File handling and utilities
+* Networking-related automation
+* Small problem-solving projects
 
-[![BCA](https://img.shields.io/badge/Academic-Projects-7C3AED?style=for-the-badge&logo=github)](https://github.com/GThejas19?tab=repositories)
+[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://github.com/GThejas19?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-> These are project categories and ideas. Replace them with your actual repositories when the projects are published.
+---
+
+## 🧠 CyberSage AI — How It Works
+
+<div align="center">
+
+```text
+       User Input
+           |
+           v
+   URL / Message Analysis
+           |
+           v
+  +---------------------+
+  | Rule-Based Checks   |
+  | ML Model Prediction |
+  +---------------------+
+           |
+           v
+   Combined Risk Score
+           |
+           v
+  +---------------------+
+  | High / Medium / Low |
+  +---------------------+
+           |
+           v
+  Findings and Scan History
+```
+
+</div>
+
+### 🚦 Risk Assessment
+
+| Risk level | Description                                                   |
+| ---------- | ------------------------------------------------------------- |
+| 🔴 High    | Strong suspicious indicators or an ML phishing classification |
+| 🟠 Medium  | Some suspicious indicators detected                           |
+| 🟢 Low     | No configured warning indicators found                        |
+
+> **Security note:** A Low Risk result does not guarantee safety. HTTPS alone does not prove a website is legitimate, and model results should be evaluated against labeled test data.
+
+### 📊 Model Evaluation
+
+CyberSage AI uses these evaluation metrics:
+
+* **Accuracy:** Overall proportion of correct predictions.
+* **Precision:** How many predicted phishing cases were actually phishing.
+* **Recall:** How many actual phishing cases were detected.
+* **F1-score:** Balance between precision and recall.
+
+| Metric    | Result                          |
+| --------- | ------------------------------- |
+| Accuracy  | Add your actual measured result |
+| Precision | Add your actual measured result |
+| Recall    | Add your actual measured result |
+| F1-score  | Add your actual measured result |
+
+*Update this table with the values printed by your model evaluation script.*
 
 ---
 
@@ -198,6 +265,19 @@
 
 ---
 
+## 🐈‍⬛🐕 Coding Companions
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="130" alt="Animated cat" />
+<img src="https://media.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy.gif" width="130" alt="Animated dog" />
+
+**Keep learning. Keep building. Keep growing.**
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -206,7 +286,7 @@
 <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Replace the placeholder links with your actual profile URLs. -->
+<!-- Replace these links with your actual profile URLs. -->
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
