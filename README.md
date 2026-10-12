@@ -1,22 +1,39 @@
+<!-- ======================================================
+     G THEJAS | COMPLETE GITHUB PROFILE README
+     GitHub username: GThejas19
+     Theme: Neon Blue + Purple | Dark Cyberpunk
+     ====================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:080b1f,50:30156b,100:00d9ff&text=G%20THEJAS&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=NETWORKING%20%7C%20CYBERSECURITY&descAlignY=62&descSize=20" width="100%" alt="G Thejas banner"/>
+<!-- ANIMATED NEON HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:101B45,65:5520A8,100:00D9FF&height=210&section=header&text=G%20THEJAS&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=WEB%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20CYBERSECURITY&descSize=15&descAlignY=63" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=NETWORKING+%7C+CYBERSECURITY;WEB+DEVELOPER+%7C+FULL+STACK+DEVELOPER;LEARN.+BUILD.+SECURE.;BUILDING+MY+IT+CAREER." alt="Typing animation"/>
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/GThejas19">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+G+Thejas+%F0%9F%91%8B;Build.+Learn.+Grow.;Full+Stack+Development;Networking+%26+Cybersecurity;Learning+Something+New+Every+Day" alt="Animated typing introduction" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=GThejas19&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile views"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=GThejas19&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/GThejas19?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&logo=github" />
+<img src="https://img.shields.io/github/stars/GThejas19?label=TOTAL%20STARS&style=for-the-badge&color=00D9FF&logo=github" />
+
+<br/><br/>
+
+<a href="https://github.com/GThejas19">
+<img src="https://img.shields.io/badge/GitHub-G%20Thejas-080B20?style=for-the-badge&logo=github&logoColor=00D9FF" />
+</a>
+<a href="https://github.com/GThejas19?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Projects-8A2BE2?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-
-| 🌐 Focus | 🎓 Education | 🔐 Interest |
-|:---:|:---:|:---:|
-| Networking | BCA Graduate | Cybersecurity |
-
-</div>
+<!-- ABOUT + SKILLS -->
 
 <table>
 <tr>
@@ -24,55 +41,63 @@
 
 ## 👤 About Me
 
-I'm a BCA graduate interested in networking, cybersecurity, and software development.
+Hello! I'm **G Thejas**, a BCA graduate passionate about software development, networking and cybersecurity.
 
+- 🎓 BCA Graduate
+- 💻 Interested in full-stack development
 - 🌐 Learning computer networking
 - 🔐 Exploring cybersecurity
-- 💻 Practicing Python and programming
-- 🚀 Building practical projects
-- 📚 Improving my IT skills every day
+- 🐍 Learning Python
+- 🐧 Practising Linux
+- 🚀 Building technical projects
+- 📚 Always learning new technologies
 
-### 🚀 What I'm Up To
+### 🎯 What I'm Up To
 
-**🔹 Currently learning**
+**📘 Currently learning**
+- Networking fundamentals
+- Cybersecurity concepts
+- Full-stack development
+- Python programming
 
-Networking fundamentals, TCP/IP, DNS, Linux, and network security.
+**🤝 Looking to collaborate on**
+- Web applications
+- Beginner-friendly open-source projects
+- Networking and security labs
 
-**🔹 Exploring**
+**💡 My goal**
 
-Routing, switching, troubleshooting, and defensive cybersecurity.
-
-**🔹 My goal**
-
-Build a career in networking and cybersecurity.
+To develop practical skills and grow into a professional in the technology industry.
 
 </td>
+
 <td width="60%" valign="top">
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-### Programming Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,cs,php&theme=dark" alt="Programming languages" />
 
-### Frontend Development
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,nextjs&theme=dark" alt="Frontend technologies" />
 
-### Backend & Database
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,mongodb&theme=dark" alt="Backend and database skills"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django&theme=dark" alt="Backend technologies" />
 
-### Networking & Cybersecurity
+### 🗄️ Databases
 
-<img src="https://img.shields.io/badge/Networking-Learning-00D9FF?style=for-the-badge" alt="Networking"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Learning-A855F7?style=for-the-badge" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/Linux-Fundamentals-6478FF?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-Learning-0078D4?style=for-the-badge" alt="TCP IP"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" alt="Database technologies" />
 
-### Tools
+### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,jenkins&theme=dark" alt="DevOps and cloud tools" />
+
+### 🔧 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,bash&theme=dark" alt="Development tools" />
 
 </td>
 </tr>
@@ -80,48 +105,155 @@ Build a career in networking and cybersecurity.
 
 ---
 
-<table>
-<tr>
-<td width="40%" valign="top">
+## 🌐 Networking & Cybersecurity
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TCP%2FIP-Networking-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OSI%20Model-Fundamentals-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DNS%20%26%20DHCP-Learning-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IP%20Addressing-Practice-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux-Command%20Line-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-Foundations-8A2BE2?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
-### 💬 Smart Learning Analytics
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Tracks student learning progress.
-- Records quiz results and study activity.
-- Helps identify areas for improvement.
+### 💬 Real-Time Chat Application
 
-### 🌐 Networking Notes
+An application concept for instant messaging and communication.
 
-- Networking fundamentals.
-- TCP/IP and IP addressing.
-- Network troubleshooting practice.
+- Group chat
+- Responsive interface
+- Real-time messaging concepts
 
-### 🔐 Cybersecurity Notes
-
-- Security fundamentals.
-- Linux learning notes.
-- Defensive security practice.
+<a href="https://github.com/GThejas19?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-Projects-00D9FF?style=for-the-badge&logo=github" />
+</a>
 
 </td>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Platform
+
+A web application concept for online shopping.
+
+- Product listings
+- Shopping cart
+- Database integration
+- Order management concepts
+
+<a href="https://github.com/GThejas19?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-Projects-8A2BE2?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Networking Lab
+
+A learning project for building practical networking knowledge.
+
+- IP addressing and subnetting
+- TCP/IP and OSI model
+- DNS and DHCP
+- Network packet analysis
+
+<a href="https://github.com/GThejas19?tab=repositories">
+<img src="https://img.shields.io/badge/Networking-Lab-00D9FF?style=for-the-badge" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity Lab
+
+A collection of authorised beginner security exercises.
+
+- Linux commands
+- Security fundamentals
+- Network reconnaissance
+- Beginner CTF practice
+
+<a href="https://github.com/GThejas19?tab=repositories">
+<img src="https://img.shields.io/badge/Security-Lab-8A2BE2?style=for-the-badge" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Python Projects
+
+Small programs to practise programming and automation.
+
+- Python fundamentals
+- File handling
+- Automation scripts
+- Problem solving
+
+<a href="https://github.com/GThejas19?tab=repositories">
+<img src="https://img.shields.io/badge/Python-Projects-00D9FF?style=for-the-badge&logo=python" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Smart Learning Analytics
+
+A student-focused learning analytics project concept.
+
+- Study-time tracking
+- Quiz progress
+- Performance analysis
+- Weak-area identification
+
+<a href="https://github.com/GThejas19?tab=repositories">
+<img src="https://img.shields.io/badge/ML%20%26%20Education-Projects-8A2BE2?style=for-the-badge" />
+</a>
+
+</td>
+</tr>
+</table>
+
+> These are project descriptions and ideas, not claims that all six projects are published. Replace each link with the corresponding repository when available.
+
+---
 
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GThejas19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060b18&title_color=00d9ff&icon_color=a855f7" width="100%" alt="GitHub statistics"/>
+<!-- GITHUB STATISTICS -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GThejas19&show_icons=true&hide_border=true&bg_color=080B20&title_color=00D9FF&icon_color=BD5FFF&text_color=EAF2FF&rank_icon=github" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GThejas19&layout=compact&theme=tokyonight&hide_border=true&bg_color=060b18&title_color=00d9ff" width="100%" alt="Top languages"/>
+<!-- TOP LANGUAGES -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GThejas19&layout=compact&hide_border=true&bg_color=080B20&title_color=00D9FF&text_color=EAF2FF" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=GThejas19&theme=tokyonight&hide_border=true&background=060b18&ring=00d9ff&fire=a855f7" width="100%" alt="GitHub streak"/>
+<br/><br/>
+
+<!-- GITHUB STREAK -->
+<img width="90%" src="https://streak-stats.demolab.com?user=GThejas19&theme=tokyonight&hide_border=true&background=080B20&ring=BD5FFF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8BA3D9" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<!-- CONTRIBUTION ACTIVITY GRAPH -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GThejas19&bg_color=080B20&color=00D9FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=G%20THEJAS%20%7C%20CONTRIBUTION%20ACTIVITY" alt="Neon GitHub contribution graph" />
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -129,53 +261,72 @@ Build a career in networking and cybersecurity.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GThejas19&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" width="100%" alt="GitHub trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=GThejas19&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-## 📅 Contribution Activity
+## 🧩 Languages & Tools
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00D9FF/GThejas19" width="100%" alt="GitHub contribution calendar"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,php,html,css,js,react,vue,angular,nextjs,nodejs,express,flask,django,mysql,mongodb,sqlite&theme=dark&perline=10" alt="Languages, frontend, backend and databases" />
 
-</div>
+<br/><br/>
 
----
-//GITHUB TROPHIES
-https://github-profile-trophy-winning.vercel.app/?username=GThejas19
-
-## 🧰 Languages & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,nodejs,flask,mysql,mongodb,git,github,vscode,docker,aws&theme=dark&perline=9" width="100%" alt="Languages and tools"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,figma,docker,aws,azure,jenkins&theme=dark&perline=10" alt="Tools and cloud technologies" />
 
 </div>
 
 ---
 
-
----
-
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/GThejas19">
-<img src="https://img.shields.io/badge/GitHub-GThejas19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<!-- Replace the following URLs with your actual social profiles -->
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💬 My Motto
+
+# "Code Today for a Better Tomorrow"
+
+*Thanks for visiting my profile.*
+
+**Let's build something amazing together!** 🚀
 
 </div>
 
+---
+
+<!-- ANIMATED CATS AND DOGS AT THE BOTTOM -->
+
 <div align="center">
 
-### 💜 Build. Learn. Grow.
+## 🐱🐶 Coding Companions
 
-*“Code today for a better tomorrow.”* 🚀
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="135" alt="Animated coding cat" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="135" alt="Animated dog" />
 
-**Thanks for visiting my profile!**
+<br/><br/>
+
+**Build. Learn. Grow. 💜**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111C49,65:5520A8,100:00D9FF&height=130&section=footer" />
 
 </div>
