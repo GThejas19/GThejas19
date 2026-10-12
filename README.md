@@ -1,4 +1,3 @@
-```html
 <!-- =========================================================
      G THEJAS | GITHUB PROFILE README
      GitHub username: GThejas19
