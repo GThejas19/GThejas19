@@ -1,6 +1,7 @@
+ 
 <!-- =========================================================
      G THEJAS | GITHUB PROFILE README
-     GitHub username: GThejas19
+     GitHub: GThejas19
      ========================================================= -->
 
 <div align="center">
@@ -8,7 +9,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B20,40:302080,75:00D9FF,100:9D4EDD&height=180&section=header&text=G%20THEJAS&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=NETWORKING%20%7C%20CYBERSECURITY%20%7C%20WEB%20DEVELOPMENT&descAlignY=60&descSize=15" />
 
 <a href="https://github.com/GThejas19">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+G+Thejas+%F0%9F%91%8B;Networking+%26+Cybersecurity+Learner;Python+%26+Flask+Developer;Building+Smart+Travel+Planner;Build.+Learn.+Grow." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+G+Thejas+%F0%9F%91%8B;Networking+%26+Cybersecurity+Learner;Python+%26+Full+Stack+Developer;Building+InsiderWatch+AI;Exploring+Artificial+Intelligence;Build.+Learn.+Grow." alt="Typing animation" />
 </a>
 
 <br/>
@@ -18,10 +19,12 @@
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-GThejas19-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/GThejas19)
-[![Networking](https://img.shields.io/badge/Networking-Learning-00D9FF?style=for-the-badge\&logo=cisco\&logoColor=black)](https://github.com/GThejas19)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-8A2BE2?style=for-the-badge\&logo=kalilinux\&logoColor=white)](https://github.com/GThejas19)
-[![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://github.com/GThejas19)
+<a href="https://github.com/GThejas19">
+<img src="https://img.shields.io/badge/GitHub-GThejas19-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Networking-Learning-00D9FF?style=for-the-badge&logo=cisco&logoColor=black" />
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-8A2BE2?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
@@ -35,30 +38,30 @@
 
 ### 👋 Hello, I'm Thejas!
 
-* 🎓 BCA graduate
-* 🌐 Interested in **Computer Networking**
-* 🔐 Learning **Cybersecurity**
-* 💻 Exploring Linux, Python and networking tools
-* 🐍 Developing applications with Python and Flask
-* 🗺️ Building a Smart Travel Planner web application
-* 🚀 Improving my technical skills through practical projects
-* 🤝 Open to collaboration, internships and learning opportunities
+- 🎓 BCA Student / Graduate
+- 🌐 Interested in **Computer Networking**
+- 🔐 Passionate about **Cybersecurity**
+- 💻 Exploring Linux, Python and networking tools
+- 🐍 Developing applications using Python and Flask
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🚀 Building practical real-world projects
+- 🤝 Open to collaboration, internships and learning opportunities
 
-### 🎯 What I'm Working On
+### 🎯 Current Focus
 
-* 📡 Understanding networking fundamentals
-* 🛡️ Learning cybersecurity and ethical hacking concepts
-* 🐧 Practising Linux commands and system administration
-* 🧳 Developing Smart Travel Planner
-* 🤖 Exploring machine learning and phishing detection
-* 📚 Learning something new every day
+- 📡 Understanding networking fundamentals
+- 🛡️ Learning cybersecurity and ethical hacking concepts
+- 🐧 Practising Linux and system administration
+- 🤖 Developing AI-powered security applications
+- 🌐 Building full-stack web applications
+- 📚 Improving problem-solving and technical skills
 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="Animated coding illustration" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="Coding animation" />
 
-<br/>
+<br/><br/>
 
 **BUILD • LEARN • GROW**
 
@@ -95,14 +98,23 @@
 
 ### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&theme=dark" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js&theme=dark" />
 </p>
 
 ### ⚙️ Tools & Frameworks
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash,flask,sqlite,mysql&theme=dark" />
+</p>
+
+### 📚 Other Technologies
+
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash,flask,sqlite&theme=dark" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ---
@@ -113,84 +125,169 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧳 Smart Travel Planner
+### 🛡️ InsiderWatch AI
 
-**A Python Flask web application for organising trips, tracking expenses and exploring destinations.**
+**AI-Powered Insider Threat Detection & Employee Behaviour Analytics**
 
-**Features**
+A cybersecurity project designed to analyse employee activity patterns and identify potentially suspicious insider behaviour.
 
-* 👤 User registration and login
-* 🗺️ Destination maps using Leaflet and OpenStreetMap
-* 🌦️ Live weather information
-* 🧾 Trip expense tracking
-* 📊 Expense and trip charts
-* 📄 PDF report generation
-* 🗓️ Trip details and activity planning
-* 🔐 User-specific trip management
+**Key Features**
 
-**Tech stack:** Python, Flask, SQLite, HTML, CSS, JavaScript, Chart.js, Leaflet, OpenStreetMap, Open-Meteo and ReportLab.
+- 📊 Interactive security dashboard
+- 👤 Employee behaviour intelligence
+- 🔍 Suspicious activity detection
+- 🚨 Security alerts and risk assessment
+- 📈 Activity analytics and visualisation
+- 🕵️ Investigation centre
+- 📁 CSV report generation
+- 📂 Dataset exploration
 
-**Project status:** In development.
+**Tech Stack**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)](https://flask.palletsprojects.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://www.sqlite.org/)
+Python • Streamlit • Pandas • Plotly • CSV
 
-**Repository:** Replace `YOUR_TRAVEL_REPO` below with your actual repository name after publishing it.
+<sub>Project status: Development ongoing</sub>
 
-[![View Project](https://img.shields.io/badge/View-Smart%20Travel%20Planner-00D9FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/GThejas19/YOUR_TRAVEL_REPO)
+<a href="https://github.com/GThejas19/InsiderWatchAI">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-InsiderWatch%20AI-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ CyberSage AI — Phishing Detection
+### 🛡️ CyberSage AI
 
-**Goal:** Identify potentially malicious URLs and phishing messages using machine learning and rule-based analysis.
+**AI-Based Phishing Detection & Threat Analysis**
 
-**Planned or implemented features, depending on the published version:**
+A cybersecurity application designed to analyse suspicious URLs and messages and identify potential phishing threats.
 
-* 🤖 ML-based phishing classification
-* 🔍 Suspicious URL and message analysis
-* 🚦 Risk assessment
-* 📊 Accuracy, precision, recall and F1-score evaluation
-* 👤 User authentication and scan history
-* 📁 Reports and CSV export
+**Key Features**
 
-**Tech stack:** Python, Flask, scikit-learn, Joblib, HTML, CSS and SQLite, if used in the implementation.
+- 🤖 Machine learning-based classification
+- 🔍 Suspicious URL analysis
+- 📩 Message threat detection
+- 🚦 Risk assessment
+- 📊 Model evaluation
+- 👤 User authentication
+- 📜 Scan history
+- 📁 CSV security reports
 
-[![Explore CyberSage](https://img.shields.io/badge/Explore-CyberSage%20AI-8A2BE2?style=for-the-badge\&logo=github)](https://github.com/GThejas19?tab=repositories)
+**Tech Stack**
 
-*Update this section to match the features in your actual published project.*
+Python • Flask • Scikit-learn • SQLite • HTML • CSS
+
+<sub>Project status: Development</sub>
+
+<a href="https://github.com/GThejas19?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-CyberSage%20AI-8A2BE2?style=for-the-badge&logo=github" />
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 📡 Networking Lab
+### 🧳 Smart Travel Planner
 
-**Goal:** Build practical networking knowledge.
+**Full-Stack Travel Planning & Expense Management Application**
 
-* IP addressing and subnetting
-* DNS and DHCP experiments
-* TCP/IP and OSI model notes
-* Packet analysis with Wireshark
+A web application designed to organise trips, explore destinations and manage travel expenses.
 
-[![Networking](https://img.shields.io/badge/Explore-Projects-00D9FF?style=for-the-badge\&logo=github)](https://github.com/GThejas19?tab=repositories)
+**Key Features**
+
+- 👤 User registration and login
+- 🗺️ Interactive destination maps
+- 🌦️ Live weather information
+- 🧾 Trip expense tracking
+- 📊 Interactive charts
+- 📄 PDF report generation
+- 🗓️ Trip and activity planning
+
+**Tech Stack**
+
+Python • Flask • SQLite • HTML • CSS • JavaScript • Chart.js • Leaflet
+
+<sub>Project status: In development</sub>
+
+<a href="https://github.com/GThejas19/YOUR_TRAVEL_REPO">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-Smart%20Travel%20Planner-00D9FF?style=for-the-badge&logo=github" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Cybersecurity Lab
+### ❤️ Cardiac Arrhythmia Detection
 
-**Goal:** Learn security through authorised practice.
+**Machine Learning-Based ECG Classification**
 
-* Linux command-line exercises
-* Basic network reconnaissance
-* Security fundamentals
-* Beginner CTF write-ups
+A machine learning project focused on identifying abnormal heart rhythm patterns from ECG data.
 
-[![Cybersecurity](https://img.shields.io/badge/Explore-Projects-8A2BE2?style=for-the-badge\&logo=kalilinux)](https://github.com/GThejas19?tab=repositories)
+**Planned / implemented project concepts**
+
+- 📊 ECG dataset processing
+- 🧹 Data preprocessing
+- 🤖 Machine learning classification
+- 📈 Model evaluation
+- 🔬 Normal and arrhythmia classification
+
+**Tech Stack**
+
+Python • Pandas • NumPy • Matplotlib • Scikit-learn
+
+<sub>Academic project</sub>
+
+<a href="https://github.com/GThejas19?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-Repository-8A2BE2?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 Smart Car & Smart Agriculture System
+
+**IoT-Based Smart Automation Project**
+
+An academic project exploring the use of Internet of Things technology in vehicle automation and agriculture.
+
+**Project Concepts**
+
+- 🚘 Smart vehicle monitoring
+- 🌱 Smart agriculture automation
+- 📡 Sensor-based monitoring
+- ⚙️ IoT-based control systems
+
+**Technology Area**
+
+Internet of Things • Sensors • Embedded Systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 JARVIS Voice Assistant
+
+**Python-Based Personal Voice Assistant**
+
+A voice assistant project designed to perform basic computer tasks using speech recognition and text-to-speech.
+
+**Project Concepts**
+
+- 🎤 Speech recognition
+- 🔊 Text-to-speech responses
+- ⏰ Alarm and scheduled tasks
+- 🌐 Web browsing commands
+- 🖥️ Basic desktop automation
+
+**Tech Stack**
+
+Python • SpeechRecognition • pyttsx3 • Threading
+
+<a href="https://github.com/GThejas19?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-Repository-00D9FF?style=for-the-badge&logo=github" />
+</a>
 
 </td>
 </tr>
@@ -198,80 +295,28 @@
 
 ---
 
-## 🧳 Smart Travel Planner — Workflow
-
-<div align="center">
-
-```text
-          User Registration / Login
-                    |
-                    v
-             Travel Dashboard
-                    |
-          +---------+---------+
-          |         |         |
-          v         v         v
-       Plan Trip  Weather   Destination Map
-          |         |         |
-          v         v         v
-       Activities  Forecast  Explore Places
-          |
-          v
-     Track Trip Expenses
-          |
-          v
-       Charts & Reports
-          |
-          v
-       Export PDF Report
-```
-
-</div>
-
-### 🧰 Main Technologies
-
-| Technology              | Purpose                                     |
-| ----------------------- | ------------------------------------------- |
-| Python                  | Application logic                           |
-| Flask                   | Web application and routes                  |
-| SQLite                  | Store users, trips, activities and expenses |
-| HTML / CSS              | Page structure and styling                  |
-| JavaScript / Chart.js   | Interactive charts                          |
-| Leaflet / OpenStreetMap | Interactive maps                            |
-| Open-Meteo              | Weather information                         |
-| ReportLab               | PDF report generation                       |
-
----
-
-## 🧠 Cybersecurity Learning
+## 🧠 Cybersecurity & AI Learning
 
 ### 🚦 Phishing Risk Assessment
 
-| Risk level | Description                            |
-| ---------- | -------------------------------------- |
-| 🔴 High    | Strong suspicious indicators detected  |
-| 🟠 Medium  | Some suspicious indicators detected    |
-| 🟢 Low     | No configured warning indicators found |
+| Risk level | Description |
+|---|---|
+| 🔴 High | Strong suspicious indicators detected |
+| 🟠 Medium | Some suspicious indicators detected |
+| 🟢 Low | No configured warning indicators found |
 
-> A low-risk result does not guarantee a website is safe. HTTPS alone does not prove a website is legitimate.
+> A low-risk result does not guarantee that a website is safe. HTTPS alone does not prove that a website is legitimate.
 
-### 📊 Model Evaluation
+### 📊 Machine Learning Evaluation
 
-CyberSage AI can be evaluated using:
+Cybersecurity and ML projects can be evaluated using:
 
-* **Accuracy:** Overall proportion of correct predictions.
-* **Precision:** How many predicted phishing cases were actually phishing.
-* **Recall:** How many actual phishing cases were detected.
-* **F1-score:** Balance between precision and recall.
+- **Accuracy:** Overall proportion of correct predictions.
+- **Precision:** How many predicted positive cases were correct.
+- **Recall:** How many actual positive cases were detected.
+- **F1-score:** Balance between precision and recall.
 
-| Metric    | Result                   |
-| --------- | ------------------------ |
-| Accuracy  | 100.0% |
-| Precision | 100.0% |
-| Recall    | 100.0% |
-| F1-score  | 100.0% |
-
-*Publish actual evaluation results after testing the model on a suitable labelled dataset. Avoid reporting unverified scores.*
+*Actual evaluation metrics should be published only after testing with a suitable labelled dataset.*
 
 ---
 
@@ -283,7 +328,7 @@ CyberSage AI can be evaluated using:
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GThejas19&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B20&title_color=00D9FF&text_color=FFFFFF" alt="Most used languages" />
 
-<br/>
+<br/><br/>
 
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=GThejas19&theme=tokyonight&hide_border=true&background=080B20&ring=BD5FFF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub contribution streak" />
 
@@ -291,7 +336,7 @@ CyberSage AI can be evaluated using:
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GThejas19&bg_color=080B20&color=00D9FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=GThejas19&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub trophies" />
 
@@ -299,7 +344,7 @@ CyberSage AI can be evaluated using:
 
 ---
 
-## 🐈‍⬛🐕 Coding Companions
+## 🐈‍⬛ Coding Companions
 
 <div align="center">
 
@@ -317,10 +362,8 @@ CyberSage AI can be evaluated using:
 <div align="center">
 
 <a href="https://github.com/GThejas19">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<!-- Replace these with your real profile links. -->
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
