@@ -1,3 +1,4 @@
+ 
 <!-- =========================================================
      G THEJAS | GITHUB PROFILE README
      GitHub: GThejas19
@@ -333,11 +334,13 @@ Cybersecurity and ML projects can be evaluated using:
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GThejas19&bg_color=080B20&color=00D9FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
+<!-- GitHub Contribution Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GThejas19" alt="GitHub contribution activity graph" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GThejas19&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub trophies" />
+<!-- GitHub Trophies: alternative endpoint listed by the project maintainers -->
+<img width="95%" src="https://trophygithubreadmelang.cybee.dpdns.org/?username=GThejas19&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 
 </div>
 
