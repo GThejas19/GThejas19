@@ -335,7 +335,13 @@ Cybersecurity and ML projects can be evaluated using:
 <br/><br/>
 
 <!-- GitHub Contribution Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GThejas19" alt="GitHub contribution activity graph" />
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GThejas19&theme=react-dark&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
 
 <br/><br/>
 
