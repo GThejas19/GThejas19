@@ -1,4 +1,3 @@
- 
 <!-- =========================================================
      G THEJAS | GITHUB PROFILE README
      GitHub: GThejas19
@@ -38,7 +37,7 @@
 
 ### 👋 Hello, I'm Thejas!
 
-- 🎓 BCA Student / Graduate
+- 🎓 BCA Student
 - 🌐 Interested in **Computer Networking**
 - 🔐 Passionate about **Cybersecurity**
 - 💻 Exploring Linux, Python and networking tools
@@ -210,8 +209,8 @@ Python • Flask • SQLite • HTML • CSS • JavaScript • Chart.js • Lea
 
 <sub>Project status: In development</sub>
 
-<a href="https://github.com/GThejas19/YOUR_TRAVEL_REPO">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-Smart%20Travel%20Planner-00D9FF?style=for-the-badge&logo=github" />
+<a href="https://github.com/GThejas19?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-Smart%20Travel%20Planner-00D9FF?style=for-the-badge&logo=github" />
 </a>
 
 </td>
@@ -223,7 +222,7 @@ Python • Flask • SQLite • HTML • CSS • JavaScript • Chart.js • Lea
 
 A machine learning project focused on identifying abnormal heart rhythm patterns from ECG data.
 
-**Planned / implemented project concepts**
+**Project Concepts**
 
 - 📊 ECG dataset processing
 - 🧹 Data preprocessing
@@ -324,9 +323,9 @@ Cybersecurity and ML projects can be evaluated using:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GThejas19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B20&title_color=00D9FF&icon_color=BD5FFF&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="./profile/stats.svg" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GThejas19&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B20&title_color=00D9FF&text_color=FFFFFF" alt="Most used languages" />
+<img height="165" src="./profile/top-langs.svg" alt="Most used programming languages" />
 
 <br/><br/>
 
